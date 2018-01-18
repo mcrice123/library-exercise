@@ -1,6 +1,6 @@
 # Library Exercise
 
-Created from tutorial at [TutorialsPoint](https://www.tutorialspoint.com/ruby-on-rails/index.htm)
+Ruby on Rails project created from tutorial at [TutorialsPoint](https://www.tutorialspoint.com/ruby-on-rails/index.htm)
 
 To install:
 1. git clone git@github.com:mcrice123/library-exercise.git

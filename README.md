@@ -1,24 +1,16 @@
-# README
+# Library Exercise
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created from tutorial at [TutorialsPoint](https://www.tutorialspoint.com/ruby-on-rails/index.htm)
 
-Things you may want to cover:
+To install:
+1. git clone git@github.com:mcrice123/library-exercise.git
+2. bundle install
+3. rails server
 
-* Ruby version
+To add subjects:
+1. rails console
+2. subject = Subject.create(name: "Subject") 
 
-* System dependencies
+  (Refresh browser and subject should appear in dropdown. Repeat for each subject you want to add.)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+3. exit
